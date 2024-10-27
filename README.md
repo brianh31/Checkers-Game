@@ -24,11 +24,6 @@ MiniCheckersGame/
                     │   Player.java
                     │   Piece.java
 Getting Started
-Clone the repository:
-
-
-
-git clone https://github.com/your-username/MiniCheckersGame.git
 Navigate to the project directory:
 
 
